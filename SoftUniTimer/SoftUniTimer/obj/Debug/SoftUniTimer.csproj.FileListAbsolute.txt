@@ -1,0 +1,15 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\SoftUniTimer\SoftUniTimer\obj\Debug\SoftUniTimer.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\SoftUniTimer\SoftUniTimer\obj\Debug\MainWindow.g.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\SoftUniTimer\SoftUniTimer\obj\Debug\App.g.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\SoftUniTimer\SoftUniTimer\obj\Debug\SoftUniTimer_MarkupCompile.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\SoftUniTimer\SoftUniTimer\obj\Debug\SoftUniTimer_MarkupCompile.lref
+D:\MyFolder\C#Fundamentals\C#OOPBasics\SoftUniTimer\SoftUniTimer\obj\Debug\SoftUniTimer.exe
+D:\MyFolder\C#Fundamentals\C#OOPBasics\SoftUniTimer\SoftUniTimer\obj\Debug\SoftUniTimer.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\SoftUniTimer\SoftUniTimer\bin\Debug\SoftUniTimer.exe.config
+D:\MyFolder\C#Fundamentals\C#OOPBasics\SoftUniTimer\SoftUniTimer\bin\Debug\SoftUniTimer.exe
+D:\MyFolder\C#Fundamentals\C#OOPBasics\SoftUniTimer\SoftUniTimer\bin\Debug\SoftUniTimer.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\SoftUniTimer\SoftUniTimer\obj\Debug\MainWindow.baml
+D:\MyFolder\C#Fundamentals\C#OOPBasics\SoftUniTimer\SoftUniTimer\obj\Debug\SoftUniTimer.g.resources
+D:\MyFolder\C#Fundamentals\C#OOPBasics\SoftUniTimer\SoftUniTimer\obj\Debug\SoftUniTimer.Properties.Resources.resources
+D:\MyFolder\C#Fundamentals\C#OOPBasics\SoftUniTimer\SoftUniTimer\obj\Debug\SoftUniTimer.csproj.GenerateResource.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\SoftUniTimer\SoftUniTimer\obj\Debug\SoftUniTimer.csproj.CoreCompileInputs.cache

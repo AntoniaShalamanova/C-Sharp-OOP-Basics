@@ -1,0 +1,10 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\3Fixing\bin\Debug\netcoreapp2.1\3Fixing.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\3Fixing\bin\Debug\netcoreapp2.1\3Fixing.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\3Fixing\bin\Debug\netcoreapp2.1\3Fixing.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\3Fixing\bin\Debug\netcoreapp2.1\3Fixing.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\3Fixing\bin\Debug\netcoreapp2.1\3Fixing.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\3Fixing\obj\Debug\netcoreapp2.1\3Fixing.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\3Fixing\obj\Debug\netcoreapp2.1\3Fixing.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\3Fixing\obj\Debug\netcoreapp2.1\3Fixing.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\3Fixing\obj\Debug\netcoreapp2.1\3Fixing.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\3Fixing\obj\Debug\netcoreapp2.1\3Fixing.pdb

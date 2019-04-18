@@ -1,0 +1,10 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\4FixingVol2\bin\Debug\netcoreapp2.1\4FixingVol2.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\4FixingVol2\bin\Debug\netcoreapp2.1\4FixingVol2.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\4FixingVol2\bin\Debug\netcoreapp2.1\4FixingVol2.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\4FixingVol2\bin\Debug\netcoreapp2.1\4FixingVol2.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\4FixingVol2\bin\Debug\netcoreapp2.1\4FixingVol2.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\4FixingVol2\obj\Debug\netcoreapp2.1\4FixingVol2.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\4FixingVol2\obj\Debug\netcoreapp2.1\4FixingVol2.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\4FixingVol2\obj\Debug\netcoreapp2.1\4FixingVol2.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\4FixingVol2\obj\Debug\netcoreapp2.1\4FixingVol2.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\4FixingVol2\obj\Debug\netcoreapp2.1\4FixingVol2.pdb

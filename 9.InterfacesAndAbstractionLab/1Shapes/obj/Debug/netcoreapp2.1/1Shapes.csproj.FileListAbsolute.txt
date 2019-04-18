@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\1Shapes\bin\Debug\netcoreapp2.1\1Shapes.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\1Shapes\bin\Debug\netcoreapp2.1\1Shapes.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\1Shapes\bin\Debug\netcoreapp2.1\1Shapes.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\1Shapes\bin\Debug\netcoreapp2.1\1Shapes.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\1Shapes\bin\Debug\netcoreapp2.1\1Shapes.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\1Shapes\obj\Debug\netcoreapp2.1\1Shapes.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\1Shapes\obj\Debug\netcoreapp2.1\1Shapes.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\1Shapes\obj\Debug\netcoreapp2.1\1Shapes.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\1Shapes\obj\Debug\netcoreapp2.1\1Shapes.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\1Shapes\obj\Debug\netcoreapp2.1\1Shapes.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\1Shapes\obj\Debug\netcoreapp2.1\1Shapes.pdb

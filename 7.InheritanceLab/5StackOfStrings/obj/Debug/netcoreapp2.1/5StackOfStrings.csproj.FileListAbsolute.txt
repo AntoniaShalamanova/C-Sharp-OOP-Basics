@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\5StackOfStrings\bin\Debug\netcoreapp2.1\5StackOfStrings.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\5StackOfStrings\bin\Debug\netcoreapp2.1\5StackOfStrings.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\5StackOfStrings\bin\Debug\netcoreapp2.1\5StackOfStrings.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\5StackOfStrings\bin\Debug\netcoreapp2.1\5StackOfStrings.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\5StackOfStrings\bin\Debug\netcoreapp2.1\5StackOfStrings.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\5StackOfStrings\obj\Debug\netcoreapp2.1\5StackOfStrings.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\5StackOfStrings\obj\Debug\netcoreapp2.1\5StackOfStrings.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\5StackOfStrings\obj\Debug\netcoreapp2.1\5StackOfStrings.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\5StackOfStrings\obj\Debug\netcoreapp2.1\5StackOfStrings.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\5StackOfStrings\obj\Debug\netcoreapp2.1\5StackOfStrings.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\5StackOfStrings\obj\Debug\netcoreapp2.1\5StackOfStrings.pdb

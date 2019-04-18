@@ -1,0 +1,14 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkshopFirst\SimpleSnake\bin\Debug\netcoreapp2.1\win-x86\hostpolicy.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkshopFirst\SimpleSnake\bin\Debug\netcoreapp2.1\win-x86\hostfxr.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkshopFirst\SimpleSnake\bin\Debug\netcoreapp2.1\win-x86\SimpleSnake.exe
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkshopFirst\SimpleSnake\bin\Debug\netcoreapp2.1\win-x86\SimpleSnake.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkshopFirst\SimpleSnake\bin\Debug\netcoreapp2.1\win-x86\SimpleSnake.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkshopFirst\SimpleSnake\bin\Debug\netcoreapp2.1\win-x86\SimpleSnake.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkshopFirst\SimpleSnake\bin\Debug\netcoreapp2.1\win-x86\SimpleSnake.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkshopFirst\SimpleSnake\bin\Debug\netcoreapp2.1\win-x86\SimpleSnake.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkshopFirst\SimpleSnake\obj\Debug\netcoreapp2.1\win-x86\SimpleSnake.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkshopFirst\SimpleSnake\obj\Debug\netcoreapp2.1\win-x86\SimpleSnake.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkshopFirst\SimpleSnake\obj\Debug\netcoreapp2.1\win-x86\SimpleSnake.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkshopFirst\SimpleSnake\obj\Debug\netcoreapp2.1\win-x86\SimpleSnake.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkshopFirst\SimpleSnake\obj\Debug\netcoreapp2.1\win-x86\SimpleSnake.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkshopFirst\SimpleSnake\obj\Debug\netcoreapp2.1\win-x86\SimpleSnake.pdb

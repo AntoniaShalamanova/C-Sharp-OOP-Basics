@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.pdb

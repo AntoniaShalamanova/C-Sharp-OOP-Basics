@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\3TestClient\bin\Debug\netcoreapp2.0\3TestClient.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\3TestClient\bin\Debug\netcoreapp2.0\3TestClient.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\3TestClient\bin\Debug\netcoreapp2.0\3TestClient.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\3TestClient\bin\Debug\netcoreapp2.0\3TestClient.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\3TestClient\bin\Debug\netcoreapp2.0\3TestClient.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\3TestClient\obj\Debug\netcoreapp2.0\3TestClient.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\3TestClient\obj\Debug\netcoreapp2.0\3TestClient.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\3TestClient\obj\Debug\netcoreapp2.0\3TestClient.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\3TestClient\obj\Debug\netcoreapp2.0\3TestClient.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\3TestClient\obj\Debug\netcoreapp2.0\3TestClient.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\3TestClient\obj\Debug\netcoreapp2.0\3TestClient.pdb

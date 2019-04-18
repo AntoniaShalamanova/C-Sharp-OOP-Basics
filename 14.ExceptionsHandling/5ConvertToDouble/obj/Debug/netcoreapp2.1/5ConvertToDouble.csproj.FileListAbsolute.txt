@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\5ConvertToDouble\bin\Debug\netcoreapp2.1\5ConvertToDouble.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\5ConvertToDouble\bin\Debug\netcoreapp2.1\5ConvertToDouble.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\5ConvertToDouble\bin\Debug\netcoreapp2.1\5ConvertToDouble.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\5ConvertToDouble\bin\Debug\netcoreapp2.1\5ConvertToDouble.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\5ConvertToDouble\bin\Debug\netcoreapp2.1\5ConvertToDouble.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\5ConvertToDouble\obj\Debug\netcoreapp2.1\5ConvertToDouble.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\5ConvertToDouble\obj\Debug\netcoreapp2.1\5ConvertToDouble.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\5ConvertToDouble\obj\Debug\netcoreapp2.1\5ConvertToDouble.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\5ConvertToDouble\obj\Debug\netcoreapp2.1\5ConvertToDouble.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\5ConvertToDouble\obj\Debug\netcoreapp2.1\5ConvertToDouble.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\5ConvertToDouble\obj\Debug\netcoreapp2.1\5ConvertToDouble.pdb

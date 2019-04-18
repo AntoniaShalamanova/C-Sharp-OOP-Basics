@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\4PersonClass\bin\Debug\netcoreapp2.0\4PersonClass.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\4PersonClass\bin\Debug\netcoreapp2.0\4PersonClass.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\4PersonClass\bin\Debug\netcoreapp2.0\4PersonClass.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\4PersonClass\bin\Debug\netcoreapp2.0\4PersonClass.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\4PersonClass\bin\Debug\netcoreapp2.0\4PersonClass.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\4PersonClass\obj\Debug\netcoreapp2.0\4PersonClass.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\4PersonClass\obj\Debug\netcoreapp2.0\4PersonClass.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\4PersonClass\obj\Debug\netcoreapp2.0\4PersonClass.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\4PersonClass\obj\Debug\netcoreapp2.0\4PersonClass.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\4PersonClass\obj\Debug\netcoreapp2.0\4PersonClass.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\4PersonClass\obj\Debug\netcoreapp2.0\4PersonClass.pdb

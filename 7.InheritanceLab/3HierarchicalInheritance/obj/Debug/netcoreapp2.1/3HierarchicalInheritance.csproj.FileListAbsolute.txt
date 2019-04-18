@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\3HierarchicalInheritance\bin\Debug\netcoreapp2.1\3HierarchicalInheritance.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\3HierarchicalInheritance\bin\Debug\netcoreapp2.1\3HierarchicalInheritance.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\3HierarchicalInheritance\bin\Debug\netcoreapp2.1\3HierarchicalInheritance.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\3HierarchicalInheritance\bin\Debug\netcoreapp2.1\3HierarchicalInheritance.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\3HierarchicalInheritance\bin\Debug\netcoreapp2.1\3HierarchicalInheritance.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\3HierarchicalInheritance\obj\Debug\netcoreapp2.1\3HierarchicalInheritance.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\3HierarchicalInheritance\obj\Debug\netcoreapp2.1\3HierarchicalInheritance.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\3HierarchicalInheritance\obj\Debug\netcoreapp2.1\3HierarchicalInheritance.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\3HierarchicalInheritance\obj\Debug\netcoreapp2.1\3HierarchicalInheritance.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\3HierarchicalInheritance\obj\Debug\netcoreapp2.1\3HierarchicalInheritance.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\3HierarchicalInheritance\obj\Debug\netcoreapp2.1\3HierarchicalInheritance.pdb

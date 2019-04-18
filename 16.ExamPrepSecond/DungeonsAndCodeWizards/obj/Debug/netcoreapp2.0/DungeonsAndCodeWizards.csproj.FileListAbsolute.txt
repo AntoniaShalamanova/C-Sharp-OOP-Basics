@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExamPreparationSecond\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExamPreparationSecond\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExamPreparationSecond\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExamPreparationSecond\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExamPreparationSecond\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExamPreparationSecond\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExamPreparationSecond\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExamPreparationSecond\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExamPreparationSecond\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExamPreparationSecond\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExamPreparationSecond\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.pdb

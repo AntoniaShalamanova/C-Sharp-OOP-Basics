@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\10CarSalesman\bin\Debug\netcoreapp2.1\10CarSalesman.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\10CarSalesman\bin\Debug\netcoreapp2.1\10CarSalesman.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\10CarSalesman\bin\Debug\netcoreapp2.1\10CarSalesman.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\10CarSalesman\bin\Debug\netcoreapp2.1\10CarSalesman.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\10CarSalesman\bin\Debug\netcoreapp2.1\10CarSalesman.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\10CarSalesman\obj\Debug\netcoreapp2.1\10CarSalesman.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\10CarSalesman\obj\Debug\netcoreapp2.1\10CarSalesman.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\10CarSalesman\obj\Debug\netcoreapp2.1\10CarSalesman.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\10CarSalesman\obj\Debug\netcoreapp2.1\10CarSalesman.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\10CarSalesman\obj\Debug\netcoreapp2.1\10CarSalesman.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\10CarSalesman\obj\Debug\netcoreapp2.1\10CarSalesman.csprojAssemblyReference.cache

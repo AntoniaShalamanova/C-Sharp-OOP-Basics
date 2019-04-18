@@ -1,0 +1,10 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\1SingleInheritance\bin\Debug\netcoreapp2.1\1SingleInheritance.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\1SingleInheritance\bin\Debug\netcoreapp2.1\1SingleInheritance.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\1SingleInheritance\bin\Debug\netcoreapp2.1\1SingleInheritance.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\1SingleInheritance\bin\Debug\netcoreapp2.1\1SingleInheritance.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\1SingleInheritance\bin\Debug\netcoreapp2.1\1SingleInheritance.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\1SingleInheritance\obj\Debug\netcoreapp2.1\1SingleInheritance.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\1SingleInheritance\obj\Debug\netcoreapp2.1\1SingleInheritance.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\1SingleInheritance\obj\Debug\netcoreapp2.1\1SingleInheritance.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\1SingleInheritance\obj\Debug\netcoreapp2.1\1SingleInheritance.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\1SingleInheritance\obj\Debug\netcoreapp2.1\1SingleInheritance.pdb

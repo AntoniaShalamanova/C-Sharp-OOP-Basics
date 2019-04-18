@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\4FirstAndReserveTeam\bin\Debug\netcoreapp2.1\4FirstAndReserveTeam.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\4FirstAndReserveTeam\bin\Debug\netcoreapp2.1\4FirstAndReserveTeam.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\4FirstAndReserveTeam\bin\Debug\netcoreapp2.1\4FirstAndReserveTeam.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\4FirstAndReserveTeam\bin\Debug\netcoreapp2.1\4FirstAndReserveTeam.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\4FirstAndReserveTeam\bin\Debug\netcoreapp2.1\4FirstAndReserveTeam.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\4FirstAndReserveTeam\obj\Debug\netcoreapp2.1\4FirstAndReserveTeam.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\4FirstAndReserveTeam\obj\Debug\netcoreapp2.1\4FirstAndReserveTeam.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\4FirstAndReserveTeam\obj\Debug\netcoreapp2.1\4FirstAndReserveTeam.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\4FirstAndReserveTeam\obj\Debug\netcoreapp2.1\4FirstAndReserveTeam.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\4FirstAndReserveTeam\obj\Debug\netcoreapp2.1\4FirstAndReserveTeam.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\4FirstAndReserveTeam\obj\Debug\netcoreapp2.1\4FirstAndReserveTeam.pdb

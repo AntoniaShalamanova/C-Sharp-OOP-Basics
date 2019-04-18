@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\2BankAccountMethods\bin\Debug\netcoreapp2.1\2BankAccountMethods.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\2BankAccountMethods\bin\Debug\netcoreapp2.1\2BankAccountMethods.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\2BankAccountMethods\bin\Debug\netcoreapp2.1\2BankAccountMethods.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\2BankAccountMethods\bin\Debug\netcoreapp2.1\2BankAccountMethods.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\2BankAccountMethods\bin\Debug\netcoreapp2.1\2BankAccountMethods.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\2BankAccountMethods\obj\Debug\netcoreapp2.1\2BankAccountMethods.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\2BankAccountMethods\obj\Debug\netcoreapp2.1\2BankAccountMethods.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\2BankAccountMethods\obj\Debug\netcoreapp2.1\2BankAccountMethods.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\2BankAccountMethods\obj\Debug\netcoreapp2.1\2BankAccountMethods.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\2BankAccountMethods\obj\Debug\netcoreapp2.1\2BankAccountMethods.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\1DefiningClassesLab\2BankAccountMethods\obj\Debug\netcoreapp2.1\2BankAccountMethods.pdb

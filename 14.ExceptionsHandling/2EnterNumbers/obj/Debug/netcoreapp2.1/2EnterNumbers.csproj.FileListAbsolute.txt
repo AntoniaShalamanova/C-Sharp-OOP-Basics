@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\2EnterNumbers\bin\Debug\netcoreapp2.1\2EnterNumbers.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\2EnterNumbers\bin\Debug\netcoreapp2.1\2EnterNumbers.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\2EnterNumbers\bin\Debug\netcoreapp2.1\2EnterNumbers.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\2EnterNumbers\bin\Debug\netcoreapp2.1\2EnterNumbers.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\2EnterNumbers\bin\Debug\netcoreapp2.1\2EnterNumbers.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\2EnterNumbers\obj\Debug\netcoreapp2.1\2EnterNumbers.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\2EnterNumbers\obj\Debug\netcoreapp2.1\2EnterNumbers.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\2EnterNumbers\obj\Debug\netcoreapp2.1\2EnterNumbers.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\2EnterNumbers\obj\Debug\netcoreapp2.1\2EnterNumbers.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\2EnterNumbers\obj\Debug\netcoreapp2.1\2EnterNumbers.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\2EnterNumbers\obj\Debug\netcoreapp2.1\2EnterNumbers.pdb

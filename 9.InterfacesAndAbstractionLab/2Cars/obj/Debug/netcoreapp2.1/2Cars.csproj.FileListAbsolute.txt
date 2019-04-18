@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\2Cars\bin\Debug\netcoreapp2.1\2Cars.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\2Cars\bin\Debug\netcoreapp2.1\2Cars.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\2Cars\bin\Debug\netcoreapp2.1\2Cars.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\2Cars\bin\Debug\netcoreapp2.1\2Cars.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\2Cars\bin\Debug\netcoreapp2.1\2Cars.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\2Cars\obj\Debug\netcoreapp2.1\2Cars.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\2Cars\obj\Debug\netcoreapp2.1\2Cars.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\2Cars\obj\Debug\netcoreapp2.1\2Cars.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\2Cars\obj\Debug\netcoreapp2.1\2Cars.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\2Cars\obj\Debug\netcoreapp2.1\2Cars.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\5InterfacesAndAbstractionLab\2Cars\obj\Debug\netcoreapp2.1\2Cars.pdb

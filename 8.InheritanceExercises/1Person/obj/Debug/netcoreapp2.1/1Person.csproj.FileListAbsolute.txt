@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\1Person\obj\Debug\netcoreapp2.1\1Person.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\1Person\obj\Debug\netcoreapp2.1\1Person.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\1Person\obj\Debug\netcoreapp2.1\1Person.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\1Person\obj\Debug\netcoreapp2.1\1Person.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\1Person\bin\Debug\netcoreapp2.1\1Person.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\1Person\bin\Debug\netcoreapp2.1\1Person.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\1Person\bin\Debug\netcoreapp2.1\1Person.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\1Person\bin\Debug\netcoreapp2.1\1Person.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\1Person\bin\Debug\netcoreapp2.1\1Person.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\1Person\obj\Debug\netcoreapp2.1\1Person.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\1Person\obj\Debug\netcoreapp2.1\1Person.pdb

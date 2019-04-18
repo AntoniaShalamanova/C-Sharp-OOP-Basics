@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\4Telephony\bin\Debug\netcoreapp2.1\4Telephony.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\4Telephony\bin\Debug\netcoreapp2.1\4Telephony.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\4Telephony\bin\Debug\netcoreapp2.1\4Telephony.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\4Telephony\bin\Debug\netcoreapp2.1\4Telephony.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\4Telephony\bin\Debug\netcoreapp2.1\4Telephony.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\4Telephony\obj\Debug\netcoreapp2.1\4Telephony.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\4Telephony\obj\Debug\netcoreapp2.1\4Telephony.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\4Telephony\obj\Debug\netcoreapp2.1\4Telephony.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\4Telephony\obj\Debug\netcoreapp2.1\4Telephony.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\4Telephony\obj\Debug\netcoreapp2.1\4Telephony.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\4Telephony\obj\Debug\netcoreapp2.1\4Telephony.pdb

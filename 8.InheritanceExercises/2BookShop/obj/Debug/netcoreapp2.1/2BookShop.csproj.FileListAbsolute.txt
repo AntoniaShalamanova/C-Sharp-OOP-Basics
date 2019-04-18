@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\2BookShop\bin\Debug\netcoreapp2.1\2BookShop.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\2BookShop\bin\Debug\netcoreapp2.1\2BookShop.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\2BookShop\bin\Debug\netcoreapp2.1\2BookShop.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\2BookShop\bin\Debug\netcoreapp2.1\2BookShop.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\2BookShop\bin\Debug\netcoreapp2.1\2BookShop.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\2BookShop\obj\Debug\netcoreapp2.1\2BookShop.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\2BookShop\obj\Debug\netcoreapp2.1\2BookShop.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\2BookShop\obj\Debug\netcoreapp2.1\2BookShop.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\2BookShop\obj\Debug\netcoreapp2.1\2BookShop.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\2BookShop\obj\Debug\netcoreapp2.1\2BookShop.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\2BookShop\obj\Debug\netcoreapp2.1\2BookShop.pdb

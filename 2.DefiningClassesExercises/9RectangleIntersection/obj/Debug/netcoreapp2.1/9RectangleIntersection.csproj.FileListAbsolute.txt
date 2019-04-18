@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\9RectangleIntersection\bin\Debug\netcoreapp2.1\9RectangleIntersection.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\9RectangleIntersection\bin\Debug\netcoreapp2.1\9RectangleIntersection.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\9RectangleIntersection\bin\Debug\netcoreapp2.1\9RectangleIntersection.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\9RectangleIntersection\bin\Debug\netcoreapp2.1\9RectangleIntersection.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\9RectangleIntersection\bin\Debug\netcoreapp2.1\9RectangleIntersection.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\9RectangleIntersection\obj\Debug\netcoreapp2.1\9RectangleIntersection.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\9RectangleIntersection\obj\Debug\netcoreapp2.1\9RectangleIntersection.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\9RectangleIntersection\obj\Debug\netcoreapp2.1\9RectangleIntersection.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\9RectangleIntersection\obj\Debug\netcoreapp2.1\9RectangleIntersection.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\9RectangleIntersection\obj\Debug\netcoreapp2.1\9RectangleIntersection.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\9RectangleIntersection\obj\Debug\netcoreapp2.1\9RectangleIntersection.pdb

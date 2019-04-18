@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\6BirthdayCelebrations\bin\Debug\netcoreapp2.1\6BirthdayCelebrations.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\6BirthdayCelebrations\bin\Debug\netcoreapp2.1\6BirthdayCelebrations.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\6BirthdayCelebrations\bin\Debug\netcoreapp2.1\6BirthdayCelebrations.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\6BirthdayCelebrations\bin\Debug\netcoreapp2.1\6BirthdayCelebrations.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\6BirthdayCelebrations\bin\Debug\netcoreapp2.1\6BirthdayCelebrations.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\6BirthdayCelebrations\obj\Debug\netcoreapp2.1\6BirthdayCelebrations.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\6BirthdayCelebrations\obj\Debug\netcoreapp2.1\6BirthdayCelebrations.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\6BirthdayCelebrations\obj\Debug\netcoreapp2.1\6BirthdayCelebrations.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\6BirthdayCelebrations\obj\Debug\netcoreapp2.1\6BirthdayCelebrations.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\6BirthdayCelebrations\obj\Debug\netcoreapp2.1\6BirthdayCelebrations.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\6BirthdayCelebrations\obj\Debug\netcoreapp2.1\6BirthdayCelebrations.pdb

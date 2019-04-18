@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\4OnlineRadioDatabase\bin\Debug\netcoreapp2.1\4OnlineRadioDatabase.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\4OnlineRadioDatabase\bin\Debug\netcoreapp2.1\4OnlineRadioDatabase.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\4OnlineRadioDatabase\bin\Debug\netcoreapp2.1\4OnlineRadioDatabase.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\4OnlineRadioDatabase\bin\Debug\netcoreapp2.1\4OnlineRadioDatabase.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\4OnlineRadioDatabase\bin\Debug\netcoreapp2.1\4OnlineRadioDatabase.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\4OnlineRadioDatabase\obj\Debug\netcoreapp2.1\4OnlineRadioDatabase.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\4OnlineRadioDatabase\obj\Debug\netcoreapp2.1\4OnlineRadioDatabase.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\4OnlineRadioDatabase\obj\Debug\netcoreapp2.1\4OnlineRadioDatabase.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\4OnlineRadioDatabase\obj\Debug\netcoreapp2.1\4OnlineRadioDatabase.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\4OnlineRadioDatabase\obj\Debug\netcoreapp2.1\4OnlineRadioDatabase.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\4OnlineRadioDatabase\obj\Debug\netcoreapp2.1\4OnlineRadioDatabase.pdb

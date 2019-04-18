@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.pdb

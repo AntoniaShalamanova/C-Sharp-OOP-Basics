@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\2CreatingConstructors\bin\Debug\netcoreapp2.0\2CreatingConstructors.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\2CreatingConstructors\bin\Debug\netcoreapp2.0\2CreatingConstructors.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\2CreatingConstructors\bin\Debug\netcoreapp2.0\2CreatingConstructors.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\2CreatingConstructors\bin\Debug\netcoreapp2.0\2CreatingConstructors.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\2CreatingConstructors\bin\Debug\netcoreapp2.0\2CreatingConstructors.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\2CreatingConstructors\obj\Debug\netcoreapp2.0\2CreatingConstructors.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\2CreatingConstructors\obj\Debug\netcoreapp2.0\2CreatingConstructors.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\2CreatingConstructors\obj\Debug\netcoreapp2.0\2CreatingConstructors.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\2CreatingConstructors\obj\Debug\netcoreapp2.0\2CreatingConstructors.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\2CreatingConstructors\obj\Debug\netcoreapp2.0\2CreatingConstructors.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\2CreatingConstructors\obj\Debug\netcoreapp2.0\2CreatingConstructors.csprojAssemblyReference.cache

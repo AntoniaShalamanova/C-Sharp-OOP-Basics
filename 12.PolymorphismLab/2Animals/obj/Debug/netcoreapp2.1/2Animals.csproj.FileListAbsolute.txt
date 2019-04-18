@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\6PolymorphismLab\2Animals\bin\Debug\netcoreapp2.1\2Animals.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\6PolymorphismLab\2Animals\bin\Debug\netcoreapp2.1\2Animals.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\6PolymorphismLab\2Animals\bin\Debug\netcoreapp2.1\2Animals.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\6PolymorphismLab\2Animals\bin\Debug\netcoreapp2.1\2Animals.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\6PolymorphismLab\2Animals\bin\Debug\netcoreapp2.1\2Animals.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\6PolymorphismLab\2Animals\obj\Debug\netcoreapp2.1\2Animals.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\6PolymorphismLab\2Animals\obj\Debug\netcoreapp2.1\2Animals.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\6PolymorphismLab\2Animals\obj\Debug\netcoreapp2.1\2Animals.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\6PolymorphismLab\2Animals\obj\Debug\netcoreapp2.1\2Animals.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\6PolymorphismLab\2Animals\obj\Debug\netcoreapp2.1\2Animals.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\6PolymorphismLab\2Animals\obj\Debug\netcoreapp2.1\2Animals.pdb

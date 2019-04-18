@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\7SpeedRacing\bin\Debug\netcoreapp2.1\7SpeedRacing.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\7SpeedRacing\bin\Debug\netcoreapp2.1\7SpeedRacing.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\7SpeedRacing\bin\Debug\netcoreapp2.1\7SpeedRacing.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\7SpeedRacing\bin\Debug\netcoreapp2.1\7SpeedRacing.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\7SpeedRacing\bin\Debug\netcoreapp2.1\7SpeedRacing.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\7SpeedRacing\obj\Debug\netcoreapp2.1\7SpeedRacing.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\7SpeedRacing\obj\Debug\netcoreapp2.1\7SpeedRacing.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\7SpeedRacing\obj\Debug\netcoreapp2.1\7SpeedRacing.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\7SpeedRacing\obj\Debug\netcoreapp2.1\7SpeedRacing.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\7SpeedRacing\obj\Debug\netcoreapp2.1\7SpeedRacing.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\7SpeedRacing\obj\Debug\netcoreapp2.1\7SpeedRacing.pdb

@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\12Google\bin\Debug\netcoreapp2.1\12Google.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\12Google\bin\Debug\netcoreapp2.1\12Google.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\12Google\bin\Debug\netcoreapp2.1\12Google.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\12Google\bin\Debug\netcoreapp2.1\12Google.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\12Google\bin\Debug\netcoreapp2.1\12Google.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\12Google\obj\Debug\netcoreapp2.1\12Google.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\12Google\obj\Debug\netcoreapp2.1\12Google.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\12Google\obj\Debug\netcoreapp2.1\12Google.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\12Google\obj\Debug\netcoreapp2.1\12Google.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\12Google\obj\Debug\netcoreapp2.1\12Google.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\12Google\obj\Debug\netcoreapp2.1\12Google.pdb

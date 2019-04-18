@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\9CollectionHierarchy\bin\Debug\netcoreapp2.1\9CollectionHierarchy.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\9CollectionHierarchy\bin\Debug\netcoreapp2.1\9CollectionHierarchy.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\9CollectionHierarchy\bin\Debug\netcoreapp2.1\9CollectionHierarchy.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\9CollectionHierarchy\bin\Debug\netcoreapp2.1\9CollectionHierarchy.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\9CollectionHierarchy\bin\Debug\netcoreapp2.1\9CollectionHierarchy.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\9CollectionHierarchy\obj\Debug\netcoreapp2.1\9CollectionHierarchy.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\9CollectionHierarchy\obj\Debug\netcoreapp2.1\9CollectionHierarchy.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\9CollectionHierarchy\obj\Debug\netcoreapp2.1\9CollectionHierarchy.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\9CollectionHierarchy\obj\Debug\netcoreapp2.1\9CollectionHierarchy.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\9CollectionHierarchy\obj\Debug\netcoreapp2.1\9CollectionHierarchy.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\9CollectionHierarchy\obj\Debug\netcoreapp2.1\9CollectionHierarchy.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\3Mankind\bin\Debug\netcoreapp2.1\3Mankind.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\3Mankind\bin\Debug\netcoreapp2.1\3Mankind.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\3Mankind\bin\Debug\netcoreapp2.1\3Mankind.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\3Mankind\bin\Debug\netcoreapp2.1\3Mankind.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\3Mankind\bin\Debug\netcoreapp2.1\3Mankind.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\3Mankind\obj\Debug\netcoreapp2.1\3Mankind.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\3Mankind\obj\Debug\netcoreapp2.1\3Mankind.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\3Mankind\obj\Debug\netcoreapp2.1\3Mankind.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\3Mankind\obj\Debug\netcoreapp2.1\3Mankind.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\3Mankind\obj\Debug\netcoreapp2.1\3Mankind.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InheritanceExercises\3Mankind\obj\Debug\netcoreapp2.1\3Mankind.pdb

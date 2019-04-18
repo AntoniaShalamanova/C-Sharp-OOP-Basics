@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.pdb

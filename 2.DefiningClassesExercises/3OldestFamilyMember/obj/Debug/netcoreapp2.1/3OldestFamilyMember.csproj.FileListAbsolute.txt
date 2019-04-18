@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\3OldestFamilyMember\bin\Debug\netcoreapp2.1\3OldestFamilyMember.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\3OldestFamilyMember\bin\Debug\netcoreapp2.1\3OldestFamilyMember.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\3OldestFamilyMember\bin\Debug\netcoreapp2.1\3OldestFamilyMember.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\3OldestFamilyMember\bin\Debug\netcoreapp2.1\3OldestFamilyMember.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\3OldestFamilyMember\bin\Debug\netcoreapp2.1\3OldestFamilyMember.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\3OldestFamilyMember\obj\Debug\netcoreapp2.1\3OldestFamilyMember.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\3OldestFamilyMember\obj\Debug\netcoreapp2.1\3OldestFamilyMember.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\3OldestFamilyMember\obj\Debug\netcoreapp2.1\3OldestFamilyMember.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\3OldestFamilyMember\obj\Debug\netcoreapp2.1\3OldestFamilyMember.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\3OldestFamilyMember\obj\Debug\netcoreapp2.1\3OldestFamilyMember.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\DefiningClassesExercises\3OldestFamilyMember\obj\Debug\netcoreapp2.1\3OldestFamilyMember.pdb

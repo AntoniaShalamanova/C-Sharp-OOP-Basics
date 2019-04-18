@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\3Ferrari\bin\Debug\netcoreapp2.1\3Ferrari.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\3Ferrari\bin\Debug\netcoreapp2.1\3Ferrari.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\3Ferrari\bin\Debug\netcoreapp2.1\3Ferrari.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\3Ferrari\bin\Debug\netcoreapp2.1\3Ferrari.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\3Ferrari\bin\Debug\netcoreapp2.1\3Ferrari.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\3Ferrari\obj\Debug\netcoreapp2.1\3Ferrari.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\3Ferrari\obj\Debug\netcoreapp2.1\3Ferrari.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\3Ferrari\obj\Debug\netcoreapp2.1\3Ferrari.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\3Ferrari\obj\Debug\netcoreapp2.1\3Ferrari.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\3Ferrari\obj\Debug\netcoreapp2.1\3Ferrari.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\InterfacesAndAbstractionExercises\3Ferrari\obj\Debug\netcoreapp2.1\3Ferrari.pdb

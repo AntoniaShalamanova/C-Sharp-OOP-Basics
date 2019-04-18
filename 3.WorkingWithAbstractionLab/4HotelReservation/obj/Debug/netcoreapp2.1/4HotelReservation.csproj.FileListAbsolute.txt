@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\4HotelReservation\bin\Debug\netcoreapp2.1\4HotelReservation.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\4HotelReservation\bin\Debug\netcoreapp2.1\4HotelReservation.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\4HotelReservation\bin\Debug\netcoreapp2.1\4HotelReservation.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\4HotelReservation\bin\Debug\netcoreapp2.1\4HotelReservation.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\4HotelReservation\bin\Debug\netcoreapp2.1\4HotelReservation.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\4HotelReservation\obj\Debug\netcoreapp2.1\4HotelReservation.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\4HotelReservation\obj\Debug\netcoreapp2.1\4HotelReservation.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\4HotelReservation\obj\Debug\netcoreapp2.1\4HotelReservation.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\4HotelReservation\obj\Debug\netcoreapp2.1\4HotelReservation.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\4HotelReservation\obj\Debug\netcoreapp2.1\4HotelReservation.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\4HotelReservation\obj\Debug\netcoreapp2.1\4HotelReservation.pdb

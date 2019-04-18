@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\2PointInRectangle\bin\Debug\netcoreapp2.1\2PointInRectangle.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\2PointInRectangle\bin\Debug\netcoreapp2.1\2PointInRectangle.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\2PointInRectangle\bin\Debug\netcoreapp2.1\2PointInRectangle.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\2PointInRectangle\bin\Debug\netcoreapp2.1\2PointInRectangle.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\2PointInRectangle\bin\Debug\netcoreapp2.1\2PointInRectangle.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\2PointInRectangle\obj\Debug\netcoreapp2.1\2PointInRectangle.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\2PointInRectangle\obj\Debug\netcoreapp2.1\2PointInRectangle.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\2PointInRectangle\obj\Debug\netcoreapp2.1\2PointInRectangle.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\2PointInRectangle\obj\Debug\netcoreapp2.1\2PointInRectangle.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\2PointInRectangle\obj\Debug\netcoreapp2.1\2PointInRectangle.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\2WorkingWithAbstractionLab\2PointInRectangle\obj\Debug\netcoreapp2.1\2PointInRectangle.pdb

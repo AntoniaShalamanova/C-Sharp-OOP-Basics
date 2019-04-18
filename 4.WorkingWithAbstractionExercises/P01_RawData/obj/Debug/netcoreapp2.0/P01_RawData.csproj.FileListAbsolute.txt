@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\WorkingWithAbstractionExercises\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.pdb

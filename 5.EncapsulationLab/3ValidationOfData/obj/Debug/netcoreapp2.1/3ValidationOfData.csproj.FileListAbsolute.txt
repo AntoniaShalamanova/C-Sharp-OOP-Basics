@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\3ValidationOfData\bin\Debug\netcoreapp2.1\3ValidationOfData.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\3ValidationOfData\bin\Debug\netcoreapp2.1\3ValidationOfData.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\3ValidationOfData\bin\Debug\netcoreapp2.1\3ValidationOfData.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\3ValidationOfData\bin\Debug\netcoreapp2.1\3ValidationOfData.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\3ValidationOfData\bin\Debug\netcoreapp2.1\3ValidationOfData.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\3ValidationOfData\obj\Debug\netcoreapp2.1\3ValidationOfData.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\3ValidationOfData\obj\Debug\netcoreapp2.1\3ValidationOfData.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\3ValidationOfData\obj\Debug\netcoreapp2.1\3ValidationOfData.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\3ValidationOfData\obj\Debug\netcoreapp2.1\3ValidationOfData.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\3ValidationOfData\obj\Debug\netcoreapp2.1\3ValidationOfData.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\3EncapsulationLab\3ValidationOfData\obj\Debug\netcoreapp2.1\3ValidationOfData.pdb

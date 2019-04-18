@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\4RandomList\bin\Debug\netcoreapp2.1\4RandomList.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\4RandomList\bin\Debug\netcoreapp2.1\4RandomList.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\4RandomList\bin\Debug\netcoreapp2.1\4RandomList.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\4RandomList\bin\Debug\netcoreapp2.1\4RandomList.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\4RandomList\bin\Debug\netcoreapp2.1\4RandomList.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\4RandomList\obj\Debug\netcoreapp2.1\4RandomList.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\4RandomList\obj\Debug\netcoreapp2.1\4RandomList.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\4RandomList\obj\Debug\netcoreapp2.1\4RandomList.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\4RandomList\obj\Debug\netcoreapp2.1\4RandomList.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\4RandomList\obj\Debug\netcoreapp2.1\4RandomList.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\4InheritanceLab\4RandomList\obj\Debug\netcoreapp2.1\4RandomList.csprojAssemblyReference.cache

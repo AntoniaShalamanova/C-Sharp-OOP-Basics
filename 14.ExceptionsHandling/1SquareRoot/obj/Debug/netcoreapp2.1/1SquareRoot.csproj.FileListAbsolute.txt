@@ -1,0 +1,11 @@
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\1SquareRoot\bin\Debug\netcoreapp2.1\1SquareRoot.deps.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\1SquareRoot\bin\Debug\netcoreapp2.1\1SquareRoot.runtimeconfig.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\1SquareRoot\bin\Debug\netcoreapp2.1\1SquareRoot.runtimeconfig.dev.json
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\1SquareRoot\bin\Debug\netcoreapp2.1\1SquareRoot.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\1SquareRoot\bin\Debug\netcoreapp2.1\1SquareRoot.pdb
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\1SquareRoot\obj\Debug\netcoreapp2.1\1SquareRoot.csprojAssemblyReference.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\1SquareRoot\obj\Debug\netcoreapp2.1\1SquareRoot.csproj.CoreCompileInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\1SquareRoot\obj\Debug\netcoreapp2.1\1SquareRoot.AssemblyInfoInputs.cache
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\1SquareRoot\obj\Debug\netcoreapp2.1\1SquareRoot.AssemblyInfo.cs
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\1SquareRoot\obj\Debug\netcoreapp2.1\1SquareRoot.dll
+D:\MyFolder\C#Fundamentals\C#OOPBasics\ExceptionsExercise\1SquareRoot\obj\Debug\netcoreapp2.1\1SquareRoot.pdb

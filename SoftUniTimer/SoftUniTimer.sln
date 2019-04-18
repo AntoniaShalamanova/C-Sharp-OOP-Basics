@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniTimer", "SoftUniTimer\SoftUniTimer.csproj", "{B8E652F4-1056-4599-9C03-C03F37284B00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{4D7D7B5B-93A3-4640-9DA5-7C1030AAC9DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8E652F4-1056-4599-9C03-C03F37284B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E652F4-1056-4599-9C03-C03F37284B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E652F4-1056-4599-9C03-C03F37284B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E652F4-1056-4599-9C03-C03F37284B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D7D7B5B-93A3-4640-9DA5-7C1030AAC9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7D7B5B-93A3-4640-9DA5-7C1030AAC9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7D7B5B-93A3-4640-9DA5-7C1030AAC9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7D7B5B-93A3-4640-9DA5-7C1030AAC9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FE76612-E91E-4BD4-895B-87B9F9EF4E18}
+	EndGlobalSection
+EndGlobal
